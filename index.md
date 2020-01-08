@@ -24,3 +24,4 @@ curl -v --silent -qgk <REDACTED>/graph?runGraph=‘{}’
 
 
 ### More Docs coming soon!
+![Data Graph](https://github.com/saladql/words-lexicology/blob/master/1578246613.png)
